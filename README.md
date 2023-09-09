@@ -1,2 +1,2 @@
 # mlops-azure-1
-mlops 
+mlops with Azure
